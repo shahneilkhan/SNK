@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/ishahneilkhan">
-    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
 
     
-  <a href="https://github.com/ishahneilkhan/HTML">
+  <a href="https://github.com/ishahneilkhan/about">
     <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
 
   <a href="https://github.com/ishahneilkhan/CSS">
