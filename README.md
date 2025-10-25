@@ -6,7 +6,7 @@
   <a href="https://github.com/ishahneilkhan/HTML">
     <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/Contact">
+  <a href="https://github.com/ishahneilkhan/CSS">
     <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=white&color=white" />
 
   <a href="https://github.com/ishahneilkhan?tab=projects">
@@ -28,8 +28,7 @@
 
 
 
-
-## 🎙️SHAH NEIL KHAN | TABAYYUN TV
+## SHAH NEIL KHAN | SNK
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
@@ -48,9 +47,6 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-
-
-
 <table>
   <tr>
     <td align="center" width="33%">
@@ -91,22 +87,6 @@ Let's turn great ideas into smooth mobile experiences!
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -186,23 +166,6 @@ Highlight a few key repositories with descriptions and links:
 *Thanks for visiting my profile! 😊*
 
 
-
-### 📚 ALL OSTAD ASSIGNMENT
-
-* [✅ Assignment 1: Module 05](https://github.com/ishahneilkhan/OstadBatch9/blob/main/modules05_assignment01)
-* [✅ Assignment 2: Module-10](https://github.com/ishahneilkhan/OstadBatch9Modules10)
-* [✅ Assignment 3: Module-14 API CRUD Project](https://github.com/ishahneilkhan/ostad-batch-9-flutter-crud-app)
-* [✅ Assignment 4: Module-19  Task manager](https://github.com/ishahneilkhan/ostad-batch-9-module-19-assignment01)
-* [✅ Assignment 5:  Module-20, Task manager with getx](https://github.com/ishahneilkhan/OstadBatch9Module-20-Assignment01)
-* [✅ Assignment 6: Module-22 Google maps and Geolocator](https://github.com/ishahneilkhan/stadBatch9Module-22-Asssignment01)
-* [✅ Assignment 7: Module-29, E commerce App with Rest Api](https://github.com/ishahneilkhan/OstadBatch9Module29Assignment01)
-
-### Live Test: 
-
-* [✅ Livetest01 : Module-05,](https://github.com/ishahneilkhan/LiveTest1/blob/main/Batch09Modules05))
-* [✅ Livetest02 : Module-10,](https://github.com/ishahneilkhan/livetest)
-
-  
 ### Icon 
 
 (https://github.com/ishahneilkhan/Gallery)
