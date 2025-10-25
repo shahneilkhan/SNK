@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://github.com/ishahneilkhan/about">
+    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
+  </a>
+
   <a href="https://github.com/ishahneilkhan/html">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
@@ -26,6 +30,10 @@
 
 
 
+
+
+
+
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +42,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 
 ## SHAH NEIL KHAN | SNK
