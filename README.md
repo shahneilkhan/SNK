@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ishahneilkhan/about">
-    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
+    <img src="https://img.shields.io/badge/About-2ecc71?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 
   <a href="https://github.com/ishahneilkhan/html">
@@ -27,8 +27,6 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 </p>
-
-
 
 
 
