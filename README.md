@@ -1,30 +1,45 @@
 <p align="center">
   <a href="https://github.com/ishahneilkhan">
-    <img src="https://img.shields.io/badge/HTML-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
-
-    
+    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
+  </a>
+  
   <a href="https://github.com/ishahneilkhan/about">
     <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
-
-  <a href="https://github.com/ishahneilkhan/CSS">
+  </a>
+  
+  <a href="https://github.com/ishahneilkhan/Contact">
     <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=white&color=white" />
-
+  </a>
+  
   <a href="https://github.com/ishahneilkhan?tab=projects">
     <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
-
- <a href="https://github.com/ishahneilkhan/Assignments">
+  </a>
+  
+  <a href="https://github.com/ishahneilkhan/Assignments">
     <img src="https://img.shields.io/badge/Assignments-white?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=white&color=white" />
-
-<a href="https://github.com/ishahneilkhan/blogs">
+  </a>
+  
+  <a href="https://github.com/ishahneilkhan/blogs">
     <img src="https://img.shields.io/badge/Blogs-white?style=for-the-badge&logo=ghost&logoColor=white&labelColor=white&color=white" />
+  </a>
 
-<a href="https://github.com/ishahneilkhan/Gallery">
+  <a href="https://github.com/ishahneilkhan/Gallery">
     <img src="https://img.shields.io/badge/Gallery-white?style=for-the-badge&logo=googlephotos&logoColor=white&labelColor=white&color=white" />
+  </a>
 
-<a href="https://github.com/ishahneilkhan/Download/tree/main">
+  <a href="https://github.com/ishahneilkhan/Download/tree/main">
     <img src="https://img.shields.io/badge/Download-white?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=white&color=white" />
   </a>
 </p>
+
+## 🛠️ Skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
